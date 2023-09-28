@@ -2,4 +2,7 @@
     list-style: none;
     display: flex;
 }
-
+.divSuperior{
+    display: inline;
+    text-align: center;
+}
