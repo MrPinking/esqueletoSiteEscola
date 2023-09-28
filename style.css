@@ -1,8 +1,9 @@
-body{
-    text-align: center;
-}
 .classUl{
     list-style: none;
     display: flex;
+}
+
+.divSuperior{
+    text-align: center;
 }
 
